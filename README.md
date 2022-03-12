@@ -2,10 +2,10 @@
 
 # Hello there! 👋🏻 I am Riley Hood! 
 
-I am Riley Hood 🙋🏻‍♂️, a Movie lover, Self taught Programmer, and wannabe Developer.
-I am looking to collaborate with others on Reactjs.
-I eventually want to start working on open-source projects
-I am currenty working on my React skill-set 
+* I am Riley Hood 🙋🏻‍♂️, a Movie lover, Self taught Programmer, and wannabe Developer.
+* I am looking to collaborate with others on Reactjs.
+* I eventually want to start working on open-source projects.
+* I am currenty working on my React skill-set.
 
 ## Connect with Me 🤝🏻
 
