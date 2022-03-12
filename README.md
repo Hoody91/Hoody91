@@ -5,7 +5,7 @@
 * I am Riley Hood 🙋🏻‍♂️, a Movie lover, Self taught Programmer, and wannabe Developer.
 * I am looking to collaborate with others on Reactjs.
 * I eventually want to start working on open-source projects.
-* I am currenty working on my React skill-set.
+* I am currenty working on my React skill-set and lookig to get AWS certified.
 
 ## Connect with Me 🤝🏻
 
