@@ -1,20 +1,18 @@
+# Hi, I'm Riley 👋
 
+Software engineer working mostly in **Rust**, **TypeScript** and **AWS**, building backend services and APIs for live sports data.
 
-# Hello there! 👋🏻 I am Riley Hood! 
+## What I work with
 
-* I am Riley Hood 🙋🏻‍♂️, a Movie lover, Self taught Programmer, and wannabe Developer.
-* I am looking to collaborate with others on Reactjs.
-* I eventually want to start working on open-source projects.
-* I am currenty working on my React skill-set and looking to get AWS certified.
+- **Languages:** Rust, TypeScript / Node.js
+- **Backend:** Axum, PostgreSQL, MySQL, Redis
+- **Frontend:** React, Next.js
+- **Cloud & infra:** AWS (CodeBuild, CodeDeploy, Lambda), Docker, Linux
 
-## Connect with Me 🤝🏻
+## Connect
 
-[![](https://img.shields.io/badge/LinkedIn-RileyHood-blue)](https://www.linkedin.com/in/riley-hood-423924228/)
-[![](https://img.shields.io/badge/Gmail-riley.hood18%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
-[![](https://img.shields.io/badge/GitHub-Hoody91-important)](https://www.linkedin.com/in/riley-hood-423924228/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riley_Hood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-hood-423924228/)
+[![Email](https://img.shields.io/badge/Email-riley.hood18%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:riley.hood18@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Riley-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/22jzx5dnbdf7e62evvp6o5roq?si=80be71af001f45bd)
 
-
-## Other Links 
-[![](https://img.shields.io/badge/Spotify-Riley-bright)](https://open.spotify.com/user/22jzx5dnbdf7e62evvp6o5roq?si=80be71af001f45bd)
-
-
+Still a big movie fan 🎬
